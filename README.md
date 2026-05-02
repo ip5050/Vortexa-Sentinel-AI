@@ -52,5 +52,4 @@
 ### الخطوات:
 1. قم بتحميل المشروع:
    ```bash
-   git clone [https://github.com/your-username/Vortexa-Sentinel.git](https://github.com/your-username/Vortexa-Sentinel.git)
-   
+   https://github.com/ip5050/Vortexa-Sentinel-AI.git
